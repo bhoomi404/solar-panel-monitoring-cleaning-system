@@ -189,5 +189,4 @@ solar-panel-monitoring-cleaning-system/
 * Battery health monitoring
 * Energy optimization
 
-```
-```
+
